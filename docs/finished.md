@@ -1,8 +1,8 @@
-# Anticipatory Action is Scaling
+# Next Steps 
 
-More than ten countries have already used tools like these to design and operate Anticipatory Action projects.  As a farewell, we leave you with a figure with thumbnails of many of the dashboards used.
+Thank you for your crucial input into this process. Tomorrow, we will work through some examples of how the Decision Support Maptools could be customized based on your feedback. As a first step, please create a free account on Google Earth Engine and send your username to max.mauerman@columbia.edu:
 
-![](thumbs.png)
+https://code.earthengine.google.com/register
 
 # Thanks!
 

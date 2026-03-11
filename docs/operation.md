@@ -1,19 +1,41 @@
-# Operational Tools
+# Multi-Hazard Scoping Exercise
 
-Here is an example of a dashboard used during the season to monitor triggers and take action!
+Now, we will broaden our scope to other hazards beyond drought, and assess the available data, including how each hazard might be best measured and forecasted. Tomorrow, we will work through some practical examples of how the Decision Support Maptools might be customized based on this assessment. This scoping exercise will also inform the discussion with stakeholders on 18th March. 
 
-You can click through and see the state of the forecast, the lists of actions, protocols, and other information relevant to the operation of the system.
+Currently implemented Maptools:
 
-**IF THE BOX BELOW IS BLANK, PASTE THIS URL INTO AN INCOGNITO WINDOW**
+- DROUGHT: https://ee-maxmauerman.projects.earthengine.app/view/belizedrought 
+- FLOOD / EXCESS: https://ee-maxmauerman.projects.earthengine.app/view/belizeflood 
+- HEAT: https://ee-maxmauerman.projects.earthengine.app/view/belizeheat 
+- STORMS: https://ee-maxmauerman.projects.earthengine.app/view/belizestorms 
+- WILDFIRES: https://ee-maxmauerman.projects.earthengine.app/view/belizewildfires 
 
-https://fist.iri.columbia.edu/publications/docs/Madagascar_AA_FLexDashboard_OND_2024_FR/
+## Hazard Data Sources
+
+Current data sources include:
+
+![](hazardOverview.png)
+
+## Exposure Data Sources
+
+Current data sources include:
+
+![](exposureVulnOverview.png)
+
+## User Needs
+
+Based on previous forecast user need assessments from the Climate Risk Early Warning System (CREWS) project, key needs in Belize include:
+
+![](demandAssessment1.png)
+![](demandAssessment2.png)
+![](demandAssessment3.png)
+![](demandAssessment4.png)
+![](demandAssessment5.png)
+
+## Your Feedback
+
+Now it's your turn: Please review each of the maptools above, and provide your feedback about how you would like to see them customized. Tomorrow, we will show how you can use Google Earth Engine to start to tailor the tools to your users' needs.
 
 
-<div style="text-align: center; margin-top: 10px;">
-    <iframe id="resizableFrame"
-        src="https://fist.iri.columbia.edu/publications/docs/Madagascar_AA_FLexDashboard_OND_2024_FR/"
-        width="1200" height="1300"
-        style="border:1px solid black; transition: all 0.3s ease;"></iframe>
-</div>
 
-<div id="slide-config" data-type="simple" data-next="../finished/" data-kobo-id="juTgN3oE" data-width="100%"> </div>
+<div id="slide-config" data-type="kobo" data-next="../finished/" data-kobo-id="YaoU1DYr" data-width="100%"> </div>
