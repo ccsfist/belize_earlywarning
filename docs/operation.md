@@ -32,10 +32,17 @@ Based on previous forecast user need assessments from the Climate Risk Early War
 ![](demandAssessment4.png)
 ![](demandAssessment5.png)
 
+## User Bad Years
+
+The below plots summarise the hazards, years and times of year for which stakeholders reported climate impacts.
+
+![](badyears.png)
+![](badyear_timing.png)
+
 ## Your Feedback
 
 Now it's your turn: Please review each of the maptools above, and provide your feedback about how you would like to see them customized. Tomorrow, we will show how you can use Google Earth Engine to start to tailor the tools to your users' needs.
 
-
+As you answer these questions, please think both about sources of forecast information that would be useful for institutional decision-makers and sources that would be useful for the general public. These may be different sources of information, at different timescales - if so, please note this in your response. 
 
 <div id="slide-config" data-type="kobo" data-next="../finished/" data-kobo-id="YaoU1DYr" data-width="100%"> </div>
